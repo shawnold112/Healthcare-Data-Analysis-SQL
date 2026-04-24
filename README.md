@@ -81,3 +81,15 @@ This is my healthcare data analysis project. This project is created using the k
 11. What is the revenue over time?
 
 12. What is the average cost of billing by gender?
+
+13. What is the most common blood type?
+
+14. What is the least common blood type
+
+15. What is the most expensive insurance?
+
+16. What is the least expensive insurance?
+
+17. What is the most expensive medication?
+
+18. What is the least expensive medication?
